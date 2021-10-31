@@ -1,0 +1,35 @@
+body {
+    background-color: #cab9d3;
+    color: rgb(223, 211, 242)
+   }
+   .well {
+        background-color: #cab9d3;
+        color: #663282;
+        border-color: #663282;
+        font-size: large;
+    }
+    .panel {
+        border-color: #663282;
+    }
+    .panel > .panel-heading {
+        background-image: none;
+        background-color: #ab6ace;
+        color: white;
+        border-color: #663282;
+        font-size: large;
+    }
+    .panel > .panel-body {
+        background-color: #cab9d3;
+        color: #663282;
+        font-size: large;
+    }
+.jumbotron {
+    background-image: url("../Images/purple-bacteria.webp");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.container {
+    color: "bg-dark";
+}
+
